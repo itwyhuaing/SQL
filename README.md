@@ -102,3 +102,5 @@ select count(distinct name) from Person
 ##### 参考
 
 * [SQL 菜鸟](http://www.runoob.com/sql/sql-intro.html)
+* [CoreData应用简介](https://github.com/itwyhuaing/OC-WYH/tree/master/DataStore/CoreData应用简介)
+* [Realm应用简介](https://github.com/itwyhuaing/OC-WYH/tree/master/DataStore/Realm应用简介)
